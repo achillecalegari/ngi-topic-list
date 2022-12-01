@@ -1,8 +1,8 @@
 {
-  "name": "MD Topic List",
+  "name": "NGI Topic List",
   "component": true,
-  "license_url": "https://github.com/mondiscourse/md-topic-list/blob/master/LICENSE",
-  "about_url": "https://www.mon-discourse.fr/themes/md-topic-list/",
-  "authors": "Steven",
-  "theme_version": "1.1"
+  "license_url": "https://github.com/achillecalegari/ngi-topic-list/blob/master/LICENSE",
+  "about_url": "https://github.com/achillecalegari/ngi-topic-list",
+  "authors": "GnR!",
+  "theme_version": "1.0"
 }
